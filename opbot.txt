@@ -1,0 +1,3 @@
+ip-Divyanshtkepro.aternos.me
+port-62566
+name-java n bedrock
